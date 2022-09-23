@@ -31,7 +31,7 @@ const Navbar = () => {
       </div>
     </div>
   <div className="flex-none gap-2 mr-3">
-    <div className="form-control w-20 lg:w-64">
+    <div className="form-control w-20 lg:w-64 text-center">
       <input type="text" placeholder="Search" className="input input-bordered" />
     </div>
     </div>
